@@ -1,3 +1,5 @@
+![themis hero](./themis-hero.png)
+
 # Rafał Stępień
 
 Backend engineer — Python, event-driven systems, hexagonal architecture & DDD.
