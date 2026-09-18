@@ -1,4 +1,4 @@
-[![themis hero](./themis-hero.png)]([https://github.com/your-username/your-repo](https://github.com/rafalstepien/themis))
+[![themis hero](./themis-hero.png)](https://github.com/rafalstepien/themis)
 
 # Rafał Stępień
 
